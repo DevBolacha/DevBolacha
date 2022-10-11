@@ -1,4 +1,4 @@
-<img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-chibi-anime-20.gif" width="100%" height="auto" style="max-width: 50%;">
+<img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-chibi-anime-20.gif" width="75%" height="auto" style="max-width: 100%;">
 <p align="center" dir="auto">
  <a href="https://www.instagram.com/xdavidrz/" rel="nofollow">
   <img align="center" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" style="max-width: 100%;">
