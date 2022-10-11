@@ -32,14 +32,29 @@ Produtividade (parte 1 e 2) 🠖ㅤTermino 1: em andamento
 
 👾 Skills 📓 Atividades 🠖ㅤProgramador(C#,HTML,CSS)
 
-👩🏻‍💻 Programação 🠖ㅤHTML5 🠖ㅤCSS3 🠖ㅤ.Lua 🠖ㅤGitHub 🠖ㅤGIT 🠖ㅤC#
+👩🏻‍💻 Programação
+🠖ㅤ<https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+🠖ㅤ<https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
+🠖ㅤ<https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white>
+🠖ㅤ<https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
+🠖ㅤ<https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
 
-🛠️ Ferramentas 🠖ㅤVScode
+🛠️ Ferramentas 
+🠖ㅤVScode
 
-🌎 Idiomas Português 🔥🔥ﾠProeficiência: nativo
+🌎 Idiomas Português 
+🔥🔥ﾠProeficiência: nativo
 
-Inglês 🔥🔥ﾠProeficiência: Intermediario
+Inglês 
+🔥🔥ﾠProeficiência: Intermediario
 
-Espanhol 🔥🔥ﾠProeficiência: Intermediario
+Espanhol 
+🔥🔥ﾠProeficiência: Intermediario
 
 Agradeço por lerem até aqui, caso queiram entrar em contato comigo, podem me chamar nas minhas redes sociais abaixo.
+
+<https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+<https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
+<https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
+<https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
+<https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
