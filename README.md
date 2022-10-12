@@ -20,7 +20,7 @@
 <br>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eaed8799d49ac38b72e2c2d953d8826df6294ce0ccfee7c6a2792fc0e07ec6d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6672616e6369656c6c79626172626f7a61267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d304431313137">
-  <img width="45%" align="right" src="https://camo.githubusercontent.com/eaed8799d49ac38b72e2c2d953d8826df6294ce0ccfee7c6a2792fc0e07ec6d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6672616e6369656c6c79626172626f7a61267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d304431313137" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Bolacha004&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=0D1117" style="max-width: 100%;">
+  <img width="45%" align="right" src="https://camo.githubusercontent.com/eaed8799d49ac38b72e2c2d953d8826df6294ce0ccfee7c6a2792fc0e07ec6d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6672616e6369656c6c79626172626f7a61267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d304431313137" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=DevBolacha&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=0D1117" style="max-width: 100%;">
   </a>
    </p>
    <div align="left" width="100%" dir="auto">
@@ -49,7 +49,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/7247-flareonpopcat"><img src="https://cdn3.emoji.gg/emojis/7247-flareonpopcat.gif" width="64px" height="64px" alt="FlareonPopCat"></a></g-emoji>Entre em contato comigo em <a href="mailto:davedanderson004@gmail.com">davedanderson004@gmail.com</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/1162-snowpix-pat"><img src="https://cdn3.emoji.gg/emojis/1162-snowpix-pat.gif" width="64px" height="64px" alt="Snowpix_Pat"></a></g-emoji><a href="https://github.com/Bolacha004/Curriculo">Meu Currículo</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/1162-snowpix-pat"><img src="https://cdn3.emoji.gg/emojis/1162-snowpix-pat.gif" width="64px" height="64px" alt="Snowpix_Pat"></a></g-emoji><a href="https://github.com/DevBolacha/Curriculo">Meu Currículo</a></p>
 </li>
 </ul>
 </details>
@@ -81,7 +81,7 @@
       <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
         <div class="pinned-item-list-item-content">
           <div class="d-flex width-full flex-items-center position-relative">
-            <a href="/Bolacha004/Bolacha004" class="text-bold flex-auto min-width-0">
+            <a href="/DevBolacha/DevBolacha" class="text-bold flex-auto min-width-0">
             </a>
             <span></span>
           </div>
@@ -95,7 +95,7 @@
       <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
         <div class="pinned-item-list-item-content">
           <div class="d-flex width-full flex-items-center position-relative">
-            <a href="/Bolacha004/Curriculo" class="text-bold flex-auto min-width-0">
+            <a href="/DevBolacha/Curriculo" class="text-bold flex-auto min-width-0">
             </a>
             <span></span>
           </div>
