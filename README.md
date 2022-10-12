@@ -72,23 +72,18 @@
  </div>
  <div class="mt-4">
   <div class="js-pinned-items-reorder-container">
-  <h2 class="f4 mb-2 text-normal">
-      Popular repositories
     <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="spinner pinned-items-spinner js-pinned-items-spinner v-align-text-bottom ml-1 anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle>
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
 </svg>
     <span class="ml-2 color-fg-muted f6 js-pinned-items-reorder-message" role="status" aria-live="polite" data-error-text="Something went wrong." data-success-text="Order updated."></span>
   </h2>
-    <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
       <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
         <div class="pinned-item-list-item-content">
           <div class="d-flex width-full flex-items-center position-relative">
             <a href="/Bolacha004/Bolacha004" class="text-bold flex-auto min-width-0">
-              <span class="repo" title="Bolacha004">Bolacha004</span>
             </a>
             <span></span>
-           <span class="Label Label--secondary v-align-middle ml-1">Public</span>
           </div>
           <p class="pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
           </p>
@@ -97,15 +92,12 @@
         </div>
       </div>
     </li>
-    <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
       <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
         <div class="pinned-item-list-item-content">
           <div class="d-flex width-full flex-items-center position-relative">
             <a href="/Bolacha004/Curriculo" class="text-bold flex-auto min-width-0">
-              <span class="repo" title="Curriculo">Curriculo</span>
             </a>
             <span></span>
-           <span class="Label Label--secondary v-align-middle ml-1">Public</span>
           </div>
          <p class="pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
           </p>
