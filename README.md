@@ -40,7 +40,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/6222-leafeongiggle"><img src="https://cdn3.emoji.gg/emojis/6222-leafeongiggle.gif" width="64px" height="64px" alt="LeafeonGiggle"></a></g-emoji>Estou disposto a enfrentar todos os tipos de desafios e aprender cada vez mais.</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/2802-umbreon-hype"><img src="https://cdn3.emoji.gg/emojis/2802-umbreon-hype.gif" width="64px" height="64px" alt="umbreon_hype"></a></g-emoji> Atualmente uma garoto de 18 anos atrás de seus sonhos.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/2802-umbreon-hype"><img src="https://cdn3.emoji.gg/emojis/2802-umbreon-hype.gif" width="64px" height="64px" alt="umbreon_hype"></a></g-emoji> Atualmente um garoto de 18 anos atrás de seus sonhos.</p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/7667-pikachuspinnyhat"><img src="https://cdn3.emoji.gg/emojis/7667-pikachuspinnyhat.gif" width="64px" height="64px" alt="PikachuSpinnyHat"></a></g-emoji>tudo é possível, só não desista.</p>
