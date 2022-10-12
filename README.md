@@ -80,7 +80,6 @@
 </svg>
     <span class="ml-2 color-fg-muted f6 js-pinned-items-reorder-message" role="status" aria-live="polite" data-error-text="Something went wrong." data-success-text="Order updated."></span>
   </h2>
-    <ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4">
     <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
       <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
         <div class="pinned-item-list-item-content">
