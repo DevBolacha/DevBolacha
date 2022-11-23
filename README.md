@@ -1,6 +1,6 @@
 <p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif">
-<img src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif" width="100%" height="auto" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://i.pinimg.com/originals/bd/91/06/bd91060d4af2b1de882835f0b2552a4a.gif">
+<img src="https://i.pinimg.com/originals/bd/91/06/bd91060d4af2b1de882835f0b2552a4a.gif" width="100%" height="auto" style="max-width: 100%;">
 </a>
 </p>
 <p align="center" dir="auto">
