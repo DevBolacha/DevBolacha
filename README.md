@@ -1,6 +1,6 @@
 <p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/806930d3d831483c6e2e586ddf866a43bc698fafe5ed973ec50b44ed4253bbf9/68747470733a2f2f676966732e65636f2e62722f77702d636f6e74656e742f75706c6f6164732f323032322f30382f676966732d64652d616e696d652d706169736167656d2d342e676966">
-<img src="https://camo.githubusercontent.com/806930d3d831483c6e2e586ddf866a43bc698fafe5ed973ec50b44ed4253bbf9/68747470733a2f2f676966732e65636f2e62722f77702d636f6e74656e742f75706c6f6164732f323032322f30382f676966732d64652d616e696d652d706169736167656d2d342e676966" width="100%" height="auto" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif">
+<img src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif" width="100%" height="auto" style="max-width: 100%;">
 </a>
 </p>
 <p align="center" dir="auto">
